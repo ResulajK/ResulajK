@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo-resulaj.png" alt="Klevis Resulaj Logo" width="350"/>
+</p>
+
+---
 # Hi there, I'm Klevis Resulaj! 👋 Welcome to my corner of the web.
 
 I'm a passionate tech enthusiast, a perpetual tinkerer, and a web developer who finds joy in building things from the ground up. My curiosity doesn't stop at the code editor; it extends to the bare metal in my homelab, where I experiment with infrastructure and self-hosting. I'm driven by the challenge of solving problems and the thrill of seeing an idea come to life.
@@ -21,17 +26,25 @@ I'm a passionate tech enthusiast, a perpetual tinkerer, and a web developer who 
 Here's a snapshot of the technologies I'm currently working with and mastering:
 
 * **Languages:**
-    * `Python`: For scripting, automation, and back-end logic.
-    * `JavaScript`: The language of the web, powering my dynamic applications.
-    * `Java`: Exploring its powerful capabilities for enterprise-level applications.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> `Python`: For scripting, automation, and back-end logic.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> `JavaScript`: The language of the web, powering my dynamic applications.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/> `TypeScript`: For building scalable, type-safe applications.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> `Java`: Exploring its powerful capabilities for enterprise-level applications.
 
 * **Front-End & Back-End:**
-    * `Node.js`: My go-to for building fast and scalable server-side applications.
-    * `React`: For crafting beautiful, interactive, and modern user interfaces.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/> `Node.js`: My go-to for building fast and scalable server-side applications.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> `React`: For crafting beautiful, interactive, and modern user interfaces.
+
+* **Databases:**
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/> `MongoDB`: For flexible, NoSQL data storage.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="30" height="30"/> `MariaDB`: For robust, relational database management.
 
 * **DevOps & Infrastructure:**
-    * `Docker`: I containerize everything! It's essential to my workflow for creating consistent and portable development environments.
-    * `Kubernetes (K8s)`: I'm actively experimenting with K8s to understand and leverage the power of container orchestration for scalable and resilient deployments.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> `Docker`: I containerize everything! It's essential to my workflow for creating consistent and portable development environments.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30"/> `Kubernetes (K8s)`: For container orchestration and scalable deployments.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="30" height="30"/> `Ansible`: For configuration management and automation.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flux/flux-original.svg" alt="Flux" width="30" height="30"/> `Flux`: For continuous delivery and GitOps with Kubernetes.
+    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="30" height="30"/> `Terraform`: For managing Infrastructure as Code (IaC).
 
 ---
 
