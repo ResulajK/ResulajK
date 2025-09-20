@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-resulaj.png" alt="Klevis Resulaj Logo" width="350"/>
+  <img src="logo-trans.png" alt="Klevis Resulaj Logo" width="350"/>
 </p>
 
 ---
